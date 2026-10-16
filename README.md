@@ -60,16 +60,12 @@ docker build -t clima-em-foco .
 Execute com armazenamento persistente:
 
 ```bash
-docker run --rm -p 8000:8000 -v clima-data:/data clima-em-foco
+docker run --rm -p 8000:8000 -v clima-data:/data enzoorodrigues/clima-em-foco:latest
 ```
 
 Acesse http://localhost:8000. O volume `clima-data` preserva o banco entre execuções.
 
-**Docker Hub:** imagem ainda não publicada. Após publicar a imagem em uma conta do grupo, substitua este aviso pelo link público e atualize o comando, por exemplo:
-
-```bash
-docker run --rm -p 8000:8000 -v clima-data:/data USUARIO/clima-em-foco:latest
-```
+**Docker Hub:** [enzoorodrigues/clima-em-foco](https://hub.docker.com/r/enzoorodrigues/clima-em-foco)
 
 ## CI e fluxo de contribuição
 
