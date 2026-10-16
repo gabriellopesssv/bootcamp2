@@ -8,10 +8,10 @@ Aplicação web colaborativa para salvar cidades e consultar as condições atua
 
 | Nome | Matrícula | GitHub | Funcionalidade | PR principal |
 |---|---:|---|---|---|
-| Gabriel Lopes da Silva | 22611427 | A preencher | Interface e fluxo de consulta do clima | A preencher |
-| Enzo Rodrigues Nascimento | 22612071 | A preencher | Persistência SQLite, integração com Open-Meteo e testes | A preencher |
+| Gabriel Lopes da Silva | 22611427 | [@gabriellopesssv](https://github.com/gabriellopesssv) | Interface e fluxo de consulta do clima (proposta) | A preencher após sua PR |
+| Enzo Rodrigues Nascimento | 22612071 | [@enzorodrigues-source](https://github.com/enzorodrigues-source) | Persistência SQLite, integração com Open-Meteo e testes | [PR da aplicação](https://github.com/gabriellopesssv/bootcamp2/pull/1) |
 
-A divisão acima é uma proposta para confirmar com o grupo. Preencha os usuários e links das PRs após as contribuições serem abertas e mescladas. Cada integrante deve ter ao menos uma PR de código revisada por outro membro.
+A divisão da funcionalidade de Gabriel é uma proposta para confirmar com o grupo. Cada integrante deve ter ao menos uma PR de código revisada por outro membro.
 
 ## Tecnologias e serviços
 
